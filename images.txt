@@ -1,5 +1,5 @@
 neilpang/acme.sh
 xhofe/alist
-vulhub/aria2
+p3terx/aria2-pro
 sanjusss/aliyun-ddns
 rustdesk/rustdesk-server
