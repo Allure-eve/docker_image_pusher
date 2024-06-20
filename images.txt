@@ -6,3 +6,4 @@ rustdesk/rustdesk-server
 gitlab/gitlab-ce:10.5.2-ce.0
 mysql:8.2.0
 gitea/gitea:latest
+node:16.4.0
