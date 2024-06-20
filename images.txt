@@ -4,3 +4,4 @@ p3terx/aria2-pro
 chenhw2/aliyun-ddns-cli
 rustdesk/rustdesk-server
 gitlab/gitlab-ce
+mysql:8.2.0
