@@ -7,3 +7,8 @@ gitlab/gitlab-ce:10.5.2-ce.0
 mysql:8.2.0
 gitea/gitea:latest
 node:16.4.0
+emby/embyserver:4.8.0.56
+jellyfin/jellyfin:10.9.6
+amilys/embyserver:4.8.0.56
+ailg/alist:hostmode
+ailg/alist:latest
