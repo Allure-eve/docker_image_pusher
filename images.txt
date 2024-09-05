@@ -12,3 +12,4 @@ jellyfin/jellyfin:10.9.6
 amilys/embyserver:4.8.0.56
 ailg/alist:hostmode
 ailg/alist:latest
+b3log/siyuan
