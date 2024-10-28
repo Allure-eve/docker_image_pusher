@@ -1,3 +1,4 @@
+nginx:1.26.2
 neilpang/acme.sh
 xhofe/alist
 p3terx/aria2-pro
