@@ -1,1 +1,1 @@
-neilpang/acme.sh:latest
+ghcr.io/cinnamon/kotaemon:main-full
