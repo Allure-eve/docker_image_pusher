@@ -1,2 +1,1 @@
-confluentinc/cp-schema-registry
-
+xiaozhi-esp32-server:server_latest
