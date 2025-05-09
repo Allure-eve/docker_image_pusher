@@ -1,1 +1,1 @@
-doctorkirk/oracle-19c
+stalwartlabs/mail-server:latest
