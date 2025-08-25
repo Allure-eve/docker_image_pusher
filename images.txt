@@ -1,1 +1,3 @@
 stalwartlabs/mail-server:latest
+amilys/embyserver:latest
+amilys/embyserver:beta
