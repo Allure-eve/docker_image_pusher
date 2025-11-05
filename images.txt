@@ -1,3 +1,1 @@
-stalwartlabs/mail-server:latest
-amilys/embyserver:latest
-amilys/embyserver:beta
+hello-world:nanoserver-ltsc2025
