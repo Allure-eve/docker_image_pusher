@@ -1,1 +1,1 @@
-14790897/paperai:latest
+enmotech/opengauss:5.0.0
